@@ -3,6 +3,8 @@
 ## 0.9.3
 * Changed FEES transaction to only allow a single change address.
 * Changed CI/CD to new stable branch.
+* CD added to the new stable branch and new stable release processed.
+* Repositories moved to Sovrin and made public
 * bugfixes
 
 ## 0.9.2
